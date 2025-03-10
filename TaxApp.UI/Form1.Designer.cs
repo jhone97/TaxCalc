@@ -56,17 +56,17 @@
             // Id
             // 
             Id.AutoSize = true;
-            Id.Location = new Point(38, 66);
+            Id.Location = new Point(49, 72);
             Id.Name = "Id";
-            Id.Size = new Size(72, 54);
+            Id.Size = new Size(26, 19);
             Id.TabIndex = 0;
             Id.Text = "Id:";
             // 
             // textBoxId
             // 
-            textBoxId.Location = new Point(107, 66);
+            textBoxId.Location = new Point(97, 66);
             textBoxId.Name = "textBoxId";
-            textBoxId.Size = new Size(324, 61);
+            textBoxId.Size = new Size(324, 25);
             textBoxId.TabIndex = 1;
             // 
             // labelName
@@ -74,7 +74,7 @@
             labelName.AutoSize = true;
             labelName.Location = new Point(463, 66);
             labelName.Name = "labelName";
-            labelName.Size = new Size(147, 54);
+            labelName.Size = new Size(53, 19);
             labelName.TabIndex = 0;
             labelName.Text = "Name:";
             // 
@@ -82,7 +82,7 @@
             // 
             textBoxName.Location = new Point(616, 59);
             textBoxName.Name = "textBoxName";
-            textBoxName.Size = new Size(324, 61);
+            textBoxName.Size = new Size(324, 25);
             textBoxName.TabIndex = 1;
             // 
             // labelAge
@@ -90,7 +90,7 @@
             labelAge.AutoSize = true;
             labelAge.Location = new Point(967, 63);
             labelAge.Name = "labelAge";
-            labelAge.Size = new Size(109, 54);
+            labelAge.Size = new Size(40, 19);
             labelAge.TabIndex = 0;
             labelAge.Text = "Age:";
             // 
@@ -98,135 +98,135 @@
             // 
             textBoxAge.Location = new Point(1082, 63);
             textBoxAge.Name = "textBoxAge";
-            textBoxAge.Size = new Size(324, 61);
+            textBoxAge.Size = new Size(324, 25);
             textBoxAge.TabIndex = 1;
             // 
             // label
             // 
             label.AutoSize = true;
-            label.Location = new Point(38, 210);
+            label.Location = new Point(38, 105);
             label.Name = "label";
-            label.Size = new Size(100, 54);
+            label.Size = new Size(37, 19);
             label.TabIndex = 0;
             label.Text = "Sex:";
             // 
             // textBoxSex
             // 
-            textBoxSex.Location = new Point(144, 210);
+            textBoxSex.Location = new Point(97, 102);
             textBoxSex.Name = "textBoxSex";
-            textBoxSex.Size = new Size(324, 61);
+            textBoxSex.Size = new Size(324, 25);
             textBoxSex.TabIndex = 1;
             // 
             // labelLocation
             // 
             labelLocation.AutoSize = true;
-            labelLocation.Location = new Point(491, 210);
+            labelLocation.Location = new Point(447, 167);
             labelLocation.Name = "labelLocation";
-            labelLocation.Size = new Size(194, 54);
+            labelLocation.Size = new Size(70, 19);
             labelLocation.TabIndex = 0;
             labelLocation.Text = "Location:";
             // 
             // textBoxLocation
             // 
-            textBoxLocation.Location = new Point(691, 207);
+            textBoxLocation.Location = new Point(647, 164);
             textBoxLocation.Name = "textBoxLocation";
-            textBoxLocation.Size = new Size(324, 61);
+            textBoxLocation.Size = new Size(324, 25);
             textBoxLocation.TabIndex = 1;
             // 
             // labelBasic
             // 
             labelBasic.AutoSize = true;
-            labelBasic.Location = new Point(38, 754);
+            labelBasic.Location = new Point(38, 139);
             labelBasic.Name = "labelBasic";
-            labelBasic.Size = new Size(130, 54);
+            labelBasic.Size = new Size(47, 19);
             labelBasic.TabIndex = 0;
             labelBasic.Text = "Basic:";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(163, 754);
+            textBox1.Location = new Point(97, 133);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(324, 61);
+            textBox1.Size = new Size(324, 25);
             textBox1.TabIndex = 1;
             // 
             // labelDA
             // 
             labelDA.AutoSize = true;
-            labelDA.Location = new Point(493, 757);
+            labelDA.Location = new Point(489, 322);
             labelDA.Name = "labelDA";
-            labelDA.Size = new Size(91, 54);
+            labelDA.Size = new Size(33, 19);
             labelDA.TabIndex = 0;
             labelDA.Text = "DA:";
             // 
             // textBoxDA
             // 
-            textBoxDA.Location = new Point(590, 757);
+            textBoxDA.Location = new Point(586, 322);
             textBoxDA.Name = "textBoxDA";
-            textBoxDA.Size = new Size(324, 61);
+            textBoxDA.Size = new Size(324, 25);
             textBoxDA.TabIndex = 1;
             // 
             // labelHRA
             // 
             labelHRA.AutoSize = true;
-            labelHRA.Location = new Point(947, 764);
+            labelHRA.Location = new Point(943, 329);
             labelHRA.Name = "labelHRA";
-            labelHRA.Size = new Size(119, 54);
+            labelHRA.Size = new Size(43, 19);
             labelHRA.TabIndex = 0;
             labelHRA.Text = "HRA:";
             // 
             // textBoxHRA
             // 
-            textBoxHRA.Location = new Point(1072, 764);
+            textBoxHRA.Location = new Point(1068, 329);
             textBoxHRA.Name = "textBoxHRA";
-            textBoxHRA.Size = new Size(324, 61);
+            textBoxHRA.Size = new Size(324, 25);
             textBoxHRA.TabIndex = 1;
             // 
             // labelDeductions
             // 
             labelDeductions.AutoSize = true;
-            labelDeductions.Location = new Point(636, 876);
+            labelDeductions.Location = new Point(632, 441);
             labelDeductions.Name = "labelDeductions";
-            labelDeductions.Size = new Size(247, 54);
+            labelDeductions.Size = new Size(87, 19);
             labelDeductions.TabIndex = 0;
             labelDeductions.Text = "Deductions:";
             // 
             // textBoxDeductions
             // 
-            textBoxDeductions.Location = new Point(889, 876);
+            textBoxDeductions.Location = new Point(885, 441);
             textBoxDeductions.Name = "textBoxDeductions";
-            textBoxDeductions.Size = new Size(324, 61);
+            textBoxDeductions.Size = new Size(324, 25);
             textBoxDeductions.TabIndex = 1;
             // 
             // labelAllowance
             // 
             labelAllowance.AutoSize = true;
-            labelAllowance.Location = new Point(38, 883);
+            labelAllowance.Location = new Point(9, 170);
             labelAllowance.Name = "labelAllowance";
-            labelAllowance.Size = new Size(227, 54);
+            labelAllowance.Size = new Size(82, 19);
             labelAllowance.TabIndex = 0;
             labelAllowance.Text = "Allowance:";
             // 
             // textBoxAllowance
             // 
-            textBoxAllowance.Location = new Point(286, 876);
+            textBoxAllowance.Location = new Point(97, 164);
             textBoxAllowance.Name = "textBoxAllowance";
-            textBoxAllowance.Size = new Size(324, 61);
+            textBoxAllowance.Size = new Size(324, 25);
             textBoxAllowance.TabIndex = 1;
             // 
             // labelSubcharge
             // 
             labelSubcharge.AutoSize = true;
-            labelSubcharge.Location = new Point(1230, 880);
+            labelSubcharge.Location = new Point(1226, 445);
             labelSubcharge.Name = "labelSubcharge";
-            labelSubcharge.Size = new Size(233, 54);
+            labelSubcharge.Size = new Size(84, 19);
             labelSubcharge.TabIndex = 0;
             labelSubcharge.Text = "Subcharge:";
             // 
             // textBoxSubcharge
             // 
-            textBoxSubcharge.Location = new Point(1483, 880);
+            textBoxSubcharge.Location = new Point(1479, 445);
             textBoxSubcharge.Name = "textBoxSubcharge";
-            textBoxSubcharge.Size = new Size(324, 61);
+            textBoxSubcharge.Size = new Size(324, 25);
             textBoxSubcharge.TabIndex = 1;
             // 
             // buttonSubmit
@@ -241,10 +241,10 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(24F, 54F);
+            AutoScaleDimensions = new SizeF(8F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1877, 1203);
+            ClientSize = new Size(1877, 1061);
             Controls.Add(buttonSubmit);
             Controls.Add(textBoxAllowance);
             Controls.Add(labelAllowance);
